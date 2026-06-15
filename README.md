@@ -4,7 +4,7 @@ Windows Security Operations Center (SOC) Dashboard developed with Python and Str
 
 
 ## Dashboard Overview
-![![Dashboard](dashboard-overview.png)
+![Dashboard](dashboard-overview.png)
 ## MITRE ATT&CK Mapping
 ![mitre](mitre-mapping.png)
 ## Incident Timeline

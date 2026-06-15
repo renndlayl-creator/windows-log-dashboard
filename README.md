@@ -3,8 +3,6 @@ Windows operations center (SOC) dashboard developed in python and streamlit for 
 
 ## Dashboard Overview
 ![Dashboard](dashboard-overvie.png)
-![Dashboard](dashboard-overvie.png)
-![ Dashboar](dashboard-overvie.png)
 ## MITRE ATT&CK Mapping
 ![mitre](mitre-mapping.png)
 ## Incident Timeline
